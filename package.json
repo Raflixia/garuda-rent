@@ -11,7 +11,15 @@
         "axios": "^1.8.2",
         "concurrently": "^9.0.1",
         "laravel-vite-plugin": "^1.2.0",
+<<<<<<< HEAD
         "tailwindcss": "^4.0.0",
         "vite": "^6.2.4"
+=======
+        "tailwindcss": "^4.1.10",
+        "vite": "^6.2.4"
+    },
+    "dependencies": {
+        "bootstrap": "^5.3.6"
+>>>>>>> ica
     }
 }
